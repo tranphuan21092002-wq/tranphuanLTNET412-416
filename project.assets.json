@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baogi\\Downloads\\BaiTapNgay18-10-2026\\Bai4_13\\Bai4_13.csproj",
-      "projectName": "Bai4_13",
-      "projectPath": "C:\\Users\\baogi\\Downloads\\BaiTapNgay18-10-2026\\Bai4_13\\Bai4_13.csproj",
+      "projectUniqueName": "C:\\Users\\baogi\\Downloads\\BaiTapNgay18-10-2026\\Bai4_16\\Bai4_16.csproj",
+      "projectName": "Bai4_16",
+      "projectPath": "C:\\Users\\baogi\\Downloads\\BaiTapNgay18-10-2026\\Bai4_16\\Bai4_16.csproj",
       "packagesPath": "C:\\Users\\baogi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baogi\\Downloads\\BaiTapNgay18-10-2026\\Bai4_13\\obj\\",
+      "outputPath": "C:\\Users\\baogi\\Downloads\\BaiTapNgay18-10-2026\\Bai4_16\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
